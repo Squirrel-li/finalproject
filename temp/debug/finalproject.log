@@ -1,15 +1,4 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
-  gotoxy.c
-  main.c
-d:\!universitiy\1st\understand the basic structure of programming languages\finalproject\source\main.c(7): warning C4101: 'score': 未參考的區域變數
-d:\!universitiy\1st\understand the basic structure of programming languages\finalproject\source\main.c(7): warning C4101: 'obstacleY': 未參考的區域變數
-d:\!universitiy\1st\understand the basic structure of programming languages\finalproject\source\main.c(7): warning C4101: 'floorY': 未參考的區域變數
-d:\!universitiy\1st\understand the basic structure of programming languages\finalproject\source\main.c(7): warning C4101: 'jumpCounter': 未參考的區域變數
-d:\!universitiy\1st\understand the basic structure of programming languages\finalproject\source\main.c(7): warning C4101: 'dinoX': 未參考的區域變數
-d:\!universitiy\1st\understand the basic structure of programming languages\finalproject\source\main.c(7): warning C4101: 'dinoY': 未參考的區域變數
-d:\!universitiy\1st\understand the basic structure of programming languages\finalproject\source\main.c(7): warning C4101: 'gameover': 未參考的區域變數
-d:\!universitiy\1st\understand the basic structure of programming languages\finalproject\source\main.c(7): warning C4101: 'jumping': 未參考的區域變數
-d:\!universitiy\1st\understand the basic structure of programming languages\finalproject\source\main.c(7): warning C4101: 'obstacleX': 未參考的區域變數
-  正在產生程式碼...
+  drawObstacle.c
   finalproject.vcxproj -> D:\!universitiy\1st\Understand the basic structure of programming languages\finalproject\finalproject\finalproject\..\..\temp\debug\finalproject.exe
