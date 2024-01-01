@@ -4,5 +4,7 @@
 
 int main()
 {
-
+	drawWelcome();
+	system("pause");
+	return 0;
 }
