@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\source\gotoxy.c" />
     <ClCompile Include="..\..\source\main.c" />
   </ItemGroup>
   <ItemGroup>
