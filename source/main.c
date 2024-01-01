@@ -4,5 +4,5 @@
 
 int main()
 {
-
+	int dinoX, dinoY, obstacleX, obstacleY, floorY, score, jumpCounter, jumping, gameover;
 }
