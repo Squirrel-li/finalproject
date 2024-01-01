@@ -1,4 +1,10 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
-  drawWelcome.c
-  finalproject.vcxproj -> C:\Users\xxuann\Desktop\finalproject\finalproject\finalproject\..\..\temp\debug\finalproject.exe
+  drawScore.c
+c:\users\xxuann\desktop\finalproject\source\drawscore.c(4): fatal error C1083: 無法開啟包含檔案: '../include/Cproject.h': No such file or directory
+  gotoxy.c
+c:\users\xxuann\desktop\finalproject\source\gotoxy.c(4): fatal error C1083: 無法開啟包含檔案: '../include/Cproject.h': No such file or directory
+  main.c
+c:\users\xxuann\desktop\finalproject\source\main.c(9): warning C4013: 'drawWelcome' 未定義; 假設 extern 傳回整數
+c:\users\xxuann\desktop\finalproject\source\main.c(11): warning C4013: 'drawScore' 未定義; 假設 extern 傳回整數
+  正在產生程式碼...

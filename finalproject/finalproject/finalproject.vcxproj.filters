@@ -17,6 +17,12 @@
     <ClCompile Include="..\..\source\drawWelcome.c">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\source\drawScore.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\gotoxy.c">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\finalproject.h">
