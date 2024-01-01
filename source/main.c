@@ -8,6 +8,7 @@ int main()
 {
 	drawWelcome();
 
+	input(&dinoY, &jumping, &jumpCounter, &gameover);
 	drawScore(score);
 	
 	system("pause");

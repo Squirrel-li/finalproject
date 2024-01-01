@@ -23,6 +23,9 @@
     <ClCompile Include="..\..\source\gotoxy.c">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\source\input.c">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\finalproject.h">
