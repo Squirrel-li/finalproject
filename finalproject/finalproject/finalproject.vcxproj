@@ -19,7 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\source\drawDino.c" />
+    <ClCompile Include="..\..\source\drawFloor.c" />
+    <ClCompile Include="..\..\source\drawGameover.c" />
+    <ClCompile Include="..\..\source\drawObstacle.c" />
+    <ClCompile Include="..\..\source\drawScore.c" />
+    <ClCompile Include="..\..\source\drawWelcome.c" />
+    <ClCompile Include="..\..\source\gotoxy.c" />
+    <ClCompile Include="..\..\source\input.c" />
+    <ClCompile Include="..\..\source\logic.c" />
     <ClCompile Include="..\..\source\main.c" />
+    <ClCompile Include="..\..\source\setup.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\finalproject.h" />
