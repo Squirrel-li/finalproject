@@ -29,6 +29,7 @@
     <ClCompile Include="..\..\source\drawWelcome.c" />
     <ClCompile Include="..\..\source\input.c" />
     <ClCompile Include="..\..\source\main.c" />
+    <ClCompile Include="..\..\source\setup.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\finalproject.h" />

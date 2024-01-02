@@ -41,6 +41,9 @@
     <ClCompile Include="..\..\source\input.c">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\source\setup.c">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\finalproject.h">
