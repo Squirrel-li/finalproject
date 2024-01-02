@@ -20,6 +20,18 @@
     <ClCompile Include="..\..\source\drawObstacle.c">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\source\drawDino.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\drawFloor.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\drawGameover.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\source\logic.c">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\include\finalproject.h">
